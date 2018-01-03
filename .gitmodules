@@ -1,0 +1,3 @@
+[submodule "art-gallery-frontend"]
+	path = art-gallery-frontend
+	url = https://github.com/yanivhasbani/art-gallery-frontend.git
