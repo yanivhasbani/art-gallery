@@ -1,0 +1,24 @@
+{
+  "name": "art-gallery",
+  "version": "1.0.0",
+  "description": "Art gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec 'mocha -R min'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivhasbani/art-gallery.git"
+  },
+  "author": "Yaniv Hasbani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanivhasbani/art-gallery/issues"
+  },
+  "homepage": "https://github.com/yanivhasbani/art-gallery#readme",
+  "dependencies": {
+    "mocha": "^4.1.0",
+    "mongoose": "^5.0.0-rc2",
+    "nodemon": "^1.14.7"
+  }
+}
